@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Portal publiczny KRZ - Wyszukiwanie podmiotów",
+  "Type": "App",
+  "Id": "ys3r1XG4mU-8tgnmR2ISJw",
+  "Reference": "r_kP82VJ0U-vPXlRvYnOqA/ys3r1XG4mU-8tgnmR2ISJw",
+  "Created": "2025-03-04T18:43:37.1806759Z",
+  "Updated": "2025-03-04T18:43:37.1806759Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

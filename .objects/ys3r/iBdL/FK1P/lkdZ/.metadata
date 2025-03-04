@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Identyfikator (PESEL, N…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "lkdZAScol0-ezqOIglwHfQ",
+  "Reference": "r_kP82VJ0U-vPXlRvYnOqA/lkdZAScol0-ezqOIglwHfQ",
+  "ParentRef": "r_kP82VJ0U-vPXlRvYnOqA/FK1PqdFvZkSNP7qiFXdL8A",
+  "Created": "2025-03-04T18:47:35.671296Z",
+  "Updated": "2025-03-04T18:47:35.671296Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

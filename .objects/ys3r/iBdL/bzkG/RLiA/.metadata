@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sygnatura",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "RLiARMmNVU6cD5VWVksFVQ",
+  "Reference": "r_kP82VJ0U-vPXlRvYnOqA/RLiARMmNVU6cD5VWVksFVQ",
+  "ParentRef": "r_kP82VJ0U-vPXlRvYnOqA/bzkGRlkqM0CEGNQlOcJ9_g",
+  "Created": "2025-03-04T18:53:34.4673734Z",
+  "Updated": "2025-03-04T18:53:34.4673734Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

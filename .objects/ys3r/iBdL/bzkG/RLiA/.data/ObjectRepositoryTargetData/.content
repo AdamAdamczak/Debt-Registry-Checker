@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Cv44lDkrEEGWjRzxT0sKeg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="krz.ms.gov.pl" DesignTimeRectangle="630, 849, 287, 32" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' /&gt;&lt;webctrl aaname='Rodzaj postępowania Sygnatura Data rejestracji Data zakończenia Status' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='ui-href nr' /&gt;" Guid="916153c7-9a16-4318-9226-32292d6b3021" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Portal publiczny KRZ - Wyszukiwanie podmiotów' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="646, 815, 64, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' /&gt;&lt;webctrl aaname='Rodzaj postępowania Sygnatura Data rejestracji Data zakończenia Status' tag='TABLE' /&gt;&lt;webctrl tag='SPAN' type='' class='' aaname='Sygnatura' check:innerText='Sygnatura' /&gt;" Guid="d6f5dd38-bc4e-4e8e-a7d9-83bb70a1cb55" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="634d277d103d785360c43098aa70a376.png" xmlns="">0FtQ0ZTr7vUCptT_-rLhEjg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

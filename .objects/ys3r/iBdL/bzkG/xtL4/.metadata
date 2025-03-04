@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Rodzaj postępowania",
+  "Type": "Element",
+  "Id": "xtL4as28ukqvaMNNsca6Yg",
+  "Reference": "r_kP82VJ0U-vPXlRvYnOqA/xtL4as28ukqvaMNNsca6Yg",
+  "ParentRef": "r_kP82VJ0U-vPXlRvYnOqA/bzkGRlkqM0CEGNQlOcJ9_g",
+  "Created": "2025-03-04T18:53:50.5368953Z",
+  "Updated": "2025-03-04T18:53:50.5368953Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

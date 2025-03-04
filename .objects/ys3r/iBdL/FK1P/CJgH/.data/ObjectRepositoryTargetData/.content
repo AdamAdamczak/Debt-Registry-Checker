@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t1loAHK8-UGnjPHCb5kJcw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="krz.ms.gov.pl" DesignTimeRectangle="1698, 687, 79, 30" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' /&gt;&lt;webctrl parentid='butoonWyczyscMobile' tag='SPAN' type='' class='ui-button-text ui-clickable' aaname='Wyczyść' check:innerText='Wyczyść' /&gt;" Guid="dec87477-552b-4465-924b-ce1aaf0f018b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Portal publiczny KRZ - Wyszukiwanie podmiotów' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1697, 686, 81, 32" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' /&gt;&lt;webctrl id='butoonWyczyscMobile' tag='BUTTON' type='button' class='ds-button secondary button buttonsMobile ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only' aaname='Wyczyść' check:innerText='Wyczyść' /&gt;" Guid="e9b0cab1-e632-41c8-a5d3-4fcbd99a6e54" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2b84dea456689cb090404670f3b531d1.png" xmlns="">0gembCKq-K0Kfumzh5Cm8Bw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

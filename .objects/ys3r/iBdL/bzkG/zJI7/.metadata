@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Osoba fizyczna prowadzą…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "zJI7p9zotE-OAC6i6HW23w",
+  "Reference": "r_kP82VJ0U-vPXlRvYnOqA/zJI7p9zotE-OAC6i6HW23w",
+  "ParentRef": "r_kP82VJ0U-vPXlRvYnOqA/bzkGRlkqM0CEGNQlOcJ9_g",
+  "Created": "2025-03-04T18:44:36.4187729Z",
+  "Updated": "2025-03-04T18:44:36.4187729Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

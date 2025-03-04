@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mVLLtYVC0kuTNNp93DaVtg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="krz.ms.gov.pl" DesignTimeRectangle="294, 549, 512, 32" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' /&gt;&lt;webctrl id='identyfikator' tag='INPUT' type='text' class='ui-inputtext ui-corner-all ui-state-default ui-widget ng-valid ng-dirty ng-touched' aaname='Identyfikator (PESEL, NIP lub inny identyfikator)' /&gt;" Guid="7143c561-b129-4a1a-886d-17a7b4c6a8a2" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Portal publiczny KRZ - Wyszukiwanie podmiotów' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="294, 523, 512, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' /&gt;&lt;webctrl aaname='Identyfikator (PESEL, NIP lub inny identyfikator)' tag='LABEL' type='' class='control-label' check:innerText='Identyfikator (PESEL, NIP lub inny identyfikator)' /&gt;" Guid="0dd7ecf1-be0c-4281-803b-624b07312c79" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="57aed0661ea48c33644701aa7290445a.png" xmlns="">0xReUXsDHfkSaby5XVSJ4sA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

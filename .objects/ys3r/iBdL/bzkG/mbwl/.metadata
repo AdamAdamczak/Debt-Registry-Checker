@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Portal publiczny KRZ",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mbwl8yibL0yCqG8mBKLoPw",
+  "Reference": "r_kP82VJ0U-vPXlRvYnOqA/mbwl8yibL0yCqG8mBKLoPw",
+  "ParentRef": "r_kP82VJ0U-vPXlRvYnOqA/bzkGRlkqM0CEGNQlOcJ9_g",
+  "Created": "2025-03-04T18:44:17.2366947Z",
+  "Updated": "2025-03-04T18:44:17.2366947Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

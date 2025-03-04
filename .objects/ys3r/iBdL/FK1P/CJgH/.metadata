@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Wyczyść",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "CJgHK5DdOE6ICxjc5p1p3Q",
+  "Reference": "r_kP82VJ0U-vPXlRvYnOqA/CJgHK5DdOE6ICxjc5p1p3Q",
+  "ParentRef": "r_kP82VJ0U-vPXlRvYnOqA/FK1PqdFvZkSNP7qiFXdL8A",
+  "Created": "2025-03-04T18:50:18.9869871Z",
+  "Updated": "2025-03-04T18:50:18.9869871Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

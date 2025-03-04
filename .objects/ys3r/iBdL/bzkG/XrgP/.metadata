@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nazwisko",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "XrgP9JcW8EegDvN5uoYyvg",
+  "Reference": "r_kP82VJ0U-vPXlRvYnOqA/XrgP9JcW8EegDvN5uoYyvg",
+  "ParentRef": "r_kP82VJ0U-vPXlRvYnOqA/bzkGRlkqM0CEGNQlOcJ9_g",
+  "Created": "2025-03-04T18:46:02.4665792Z",
+  "Updated": "2025-03-04T18:46:02.4665792Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
